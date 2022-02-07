@@ -13,6 +13,6 @@ if __name__ == '__main__':
     average_mark = (mark_1 + mark_2 + mark_3 + mark_4 + mark_5) / 5
 
     print()
-    print(f'Highest Mark: {highest_mark}')
-    print(f'Lowest Mark:  {lowest_mark}')
-    print(f'Average Mark: {average_mark:.2f}')
+    print(f'Highest Mark: {highest_mark:6}')
+    print(f'Lowest Mark:  {lowest_mark:6}')
+    print(f'Average Mark: {average_mark:6.2f}')
