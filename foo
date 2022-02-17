@@ -1,5 +1,0 @@
-if x == 1:
-   print("Hello")
-   print("Hello again")
-
-print("More code")
