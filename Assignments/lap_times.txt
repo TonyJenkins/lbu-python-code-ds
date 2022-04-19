@@ -1,0 +1,945 @@
+ALO,Alpine,110.159
+VER,Red Bull,111.837
+GIO,Alfa Romeo,117.778
+BOT,Mercedes,116.126
+ALO,Alpine,113.309
+VET,Aston Martin,116.889
+TSU,Alpha Tauri,114.075
+SAI,Ferrari,109.348
+RAI,Alfa Romeo,119.957
+LAT,Williams,118.555
+GAS,Alpha Tauri,119.552
+BOT,Mercedes,110.293
+HAM,Mercedes,112.076
+GIO,Alfa Romeo,114.691
+PER,Red Bull,115.497
+VET,Aston Martin,119.096
+RAI,Alfa Romeo,110.548
+LEC,Ferrari,112.500
+SCH,Haas,118.354
+NOR,McLaren,114.083
+GIO,Alfa Romeo,121.885
+PER,Red Bull,110.367
+SAI,Ferrari,120.564
+LEC,Ferrari,114.795
+LEC,Ferrari,115.120
+MAZ,Haas,113.414
+GAS,Alpha Tauri,117.991
+GIO,Alfa Romeo,118.866
+MAZ,Haas,111.712
+GAS,Alpha Tauri,115.237
+GIO,Alfa Romeo,117.493
+SAI,Ferrari,114.781
+HAM,Mercedes,111.035
+VER,Red Bull,115.453
+RUS,Williams,110.036
+LAT,Williams,116.922
+RUS,Williams,120.545
+SCH,Haas,118.982
+RAI,Alfa Romeo,112.672
+STR,Aston Martin,121.599
+OCO,Alpine,111.552
+ALO,Alpine,116.464
+OCO,Alpine,119.551
+TSU,Alpha Tauri,115.757
+BOT,Mercedes,111.741
+LAT,Williams,115.610
+ALO,Alpine,115.263
+HAM,Mercedes,116.911
+BOT,Mercedes,111.219
+TSU,Alpha Tauri,113.909
+PER,Red Bull,108.806
+NOR,McLaren,119.308
+ALO,Alpine,119.072
+NOR,McLaren,118.205
+GIO,Alfa Romeo,115.799
+VET,Aston Martin,113.279
+STR,Aston Martin,116.289
+TSU,Alpha Tauri,110.732
+SCH,Haas,115.053
+SCH,Haas,116.289
+LAT,Williams,119.140
+VER,Red Bull,116.264
+BOT,Mercedes,114.864
+OCO,Alpine,111.539
+HAM,Mercedes,109.657
+GIO,Alfa Romeo,120.261
+VER,Red Bull,110.353
+SAI,Ferrari,120.059
+RAI,Alfa Romeo,116.706
+VER,Red Bull,116.319
+RIC,McLaren,118.413
+LAT,Williams,117.456
+MAZ,Haas,119.768
+HAM,Mercedes,108.409
+VET,Aston Martin,115.787
+RAI,Alfa Romeo,120.202
+SCH,Haas,114.056
+BOT,Mercedes,116.374
+VER,Red Bull,116.852
+RAI,Alfa Romeo,115.236
+NOR,McLaren,118.205
+NOR,McLaren,115.724
+SCH,Haas,119.527
+NOR,McLaren,118.278
+OCO,Alpine,114.377
+VER,Red Bull,114.650
+VER,Red Bull,115.898
+VER,Red Bull,111.238
+RAI,Alfa Romeo,110.797
+OCO,Alpine,109.178
+OCO,Alpine,120.993
+BOT,Mercedes,112.026
+MAZ,Haas,114.340
+ALO,Alpine,110.784
+RUS,Williams,114.210
+ALO,Alpine,112.259
+LEC,Ferrari,109.125
+ALO,Alpine,119.134
+MAZ,Haas,111.495
+ALO,Alpine,115.579
+RIC,McLaren,117.013
+RUS,Williams,113.166
+STR,Aston Martin,116.059
+SAI,Ferrari,110.998
+VER,Red Bull,116.778
+SCH,Haas,118.207
+VER,Red Bull,116.289
+GAS,Alpha Tauri,113.785
+MAZ,Haas,118.627
+HAM,Mercedes,107.675
+LEC,Ferrari,113.579
+VER,Red Bull,115.024
+RUS,Williams,118.652
+RIC,McLaren,115.249
+GAS,Alpha Tauri,116.577
+PER,Red Bull,108.940
+VET,Aston Martin,112.602
+ALO,Alpine,113.461
+PER,Red Bull,114.389
+VET,Aston Martin,116.979
+RIC,McLaren,117.996
+HAM,Mercedes,114.328
+MAZ,Haas,117.792
+TSU,Alpha Tauri,112.514
+LEC,Ferrari,114.606
+HAM,Mercedes,108.664
+BOT,Mercedes,111.682
+LEC,Ferrari,116.138
+RIC,McLaren,119.542
+VET,Aston Martin,115.741
+SAI,Ferrari,114.344
+LAT,Williams,121.489
+STR,Aston Martin,112.967
+ALO,Alpine,118.639
+RIC,McLaren,119.489
+GIO,Alfa Romeo,121.327
+RUS,Williams,111.812
+STR,Aston Martin,113.612
+NOR,McLaren,115.970
+SCH,Haas,116.900
+GIO,Alfa Romeo,111.696
+VER,Red Bull,109.803
+VER,Red Bull,111.588
+VET,Aston Martin,114.426
+NOR,McLaren,120.819
+GIO,Alfa Romeo,115.230
+ALO,Alpine,115.132
+RUS,Williams,117.311
+ALO,Alpine,114.112
+MAZ,Haas,121.566
+VET,Aston Martin,114.849
+RAI,Alfa Romeo,112.154
+LAT,Williams,118.942
+GAS,Alpha Tauri,117.122
+PER,Red Bull,111.676
+ALO,Alpine,109.816
+SCH,Haas,117.503
+RIC,McLaren,116.797
+BOT,Mercedes,113.471
+LEC,Ferrari,111.633
+RIC,McLaren,109.863
+MAZ,Haas,111.187
+SCH,Haas,116.354
+GIO,Alfa Romeo,119.964
+GIO,Alfa Romeo,110.940
+HAM,Mercedes,108.327
+NOR,McLaren,115.994
+OCO,Alpine,117.199
+RAI,Alfa Romeo,114.489
+MAZ,Haas,110.918
+RUS,Williams,115.934
+HAM,Mercedes,109.148
+RIC,McLaren,119.064
+GIO,Alfa Romeo,114.646
+SAI,Ferrari,114.397
+RIC,McLaren,113.334
+RAI,Alfa Romeo,120.475
+BOT,Mercedes,114.262
+LEC,Ferrari,112.091
+STR,Aston Martin,117.746
+VER,Red Bull,109.029
+BOT,Mercedes,115.784
+LEC,Ferrari,118.260
+LAT,Williams,111.509
+LAT,Williams,117.589
+OCO,Alpine,114.601
+SCH,Haas,110.035
+RUS,Williams,120.157
+MAZ,Haas,121.095
+GIO,Alfa Romeo,117.632
+STR,Aston Martin,120.967
+SAI,Ferrari,118.567
+SCH,Haas,113.345
+TSU,Alpha Tauri,109.602
+STR,Aston Martin,114.749
+OCO,Alpine,110.320
+RAI,Alfa Romeo,120.100
+VET,Aston Martin,118.748
+LAT,Williams,113.878
+HAM,Mercedes,111.741
+GIO,Alfa Romeo,114.844
+RAI,Alfa Romeo,110.063
+SCH,Haas,113.065
+LAT,Williams,110.262
+SAI,Ferrari,116.113
+ALO,Alpine,113.587
+SCH,Haas,120.736
+VET,Aston Martin,111.480
+MAZ,Haas,110.032
+TSU,Alpha Tauri,113.316
+BOT,Mercedes,112.137
+RIC,McLaren,109.853
+PER,Red Bull,113.857
+ALO,Alpine,116.787
+BOT,Mercedes,115.616
+VET,Aston Martin,118.477
+LEC,Ferrari,118.708
+RUS,Williams,114.265
+LAT,Williams,110.056
+LEC,Ferrari,109.366
+HAM,Mercedes,114.625
+OCO,Alpine,116.935
+ALO,Alpine,117.064
+OCO,Alpine,109.409
+LEC,Ferrari,115.608
+NOR,McLaren,118.595
+SCH,Haas,116.306
+VER,Red Bull,108.953
+OCO,Alpine,120.169
+PER,Red Bull,113.108
+TSU,Alpha Tauri,109.040
+RIC,McLaren,113.702
+VER,Red Bull,113.091
+OCO,Alpine,114.068
+VET,Aston Martin,111.516
+PER,Red Bull,110.722
+TSU,Alpha Tauri,120.970
+LAT,Williams,111.798
+VER,Red Bull,110.100
+RUS,Williams,117.014
+RUS,Williams,119.365
+ALO,Alpine,114.779
+BOT,Mercedes,109.438
+LAT,Williams,116.810
+RIC,McLaren,110.685
+NOR,McLaren,114.178
+LAT,Williams,115.927
+VER,Red Bull,111.109
+NOR,McLaren,118.252
+RAI,Alfa Romeo,121.790
+BOT,Mercedes,114.432
+RIC,McLaren,110.709
+BOT,Mercedes,113.221
+RAI,Alfa Romeo,115.268
+RIC,McLaren,117.134
+HAM,Mercedes,109.654
+ALO,Alpine,115.863
+LEC,Ferrari,109.802
+PER,Red Bull,114.158
+VER,Red Bull,109.401
+RIC,McLaren,119.230
+SAI,Ferrari,119.500
+MAZ,Haas,113.621
+BOT,Mercedes,117.789
+STR,Aston Martin,116.840
+RIC,McLaren,119.896
+TSU,Alpha Tauri,111.516
+OCO,Alpine,118.317
+RUS,Williams,114.238
+MAZ,Haas,117.867
+RIC,McLaren,118.959
+TSU,Alpha Tauri,114.132
+RUS,Williams,119.838
+OCO,Alpine,111.599
+NOR,McLaren,118.627
+RIC,McLaren,111.059
+VET,Aston Martin,121.283
+ALO,Alpine,111.043
+BOT,Mercedes,114.654
+VER,Red Bull,114.017
+OCO,Alpine,119.270
+TSU,Alpha Tauri,111.040
+HAM,Mercedes,115.918
+NOR,McLaren,109.535
+MAZ,Haas,114.329
+LEC,Ferrari,109.624
+TSU,Alpha Tauri,118.145
+RAI,Alfa Romeo,121.011
+GIO,Alfa Romeo,119.592
+SCH,Haas,119.475
+ALO,Alpine,109.843
+TSU,Alpha Tauri,113.258
+NOR,McLaren,109.800
+NOR,McLaren,118.591
+STR,Aston Martin,120.315
+PER,Red Bull,113.768
+GIO,Alfa Romeo,115.962
+ALO,Alpine,112.124
+RUS,Williams,121.728
+GIO,Alfa Romeo,110.408
+SCH,Haas,110.472
+LAT,Williams,112.086
+LAT,Williams,111.861
+TSU,Alpha Tauri,119.337
+NOR,McLaren,116.914
+VER,Red Bull,111.489
+OCO,Alpine,109.481
+VER,Red Bull,114.653
+VER,Red Bull,113.081
+SAI,Ferrari,109.741
+GIO,Alfa Romeo,117.065
+SAI,Ferrari,120.764
+SAI,Ferrari,114.635
+VER,Red Bull,110.946
+MAZ,Haas,116.749
+VER,Red Bull,111.271
+RIC,McLaren,113.004
+PER,Red Bull,110.579
+VET,Aston Martin,116.348
+LEC,Ferrari,116.184
+SCH,Haas,117.003
+LEC,Ferrari,120.360
+LEC,Ferrari,115.324
+GIO,Alfa Romeo,117.576
+GIO,Alfa Romeo,116.050
+VER,Red Bull,108.816
+TSU,Alpha Tauri,115.349
+VER,Red Bull,117.564
+RAI,Alfa Romeo,113.813
+GAS,Alpha Tauri,115.570
+SAI,Ferrari,120.966
+GIO,Alfa Romeo,114.132
+RIC,McLaren,113.819
+VET,Aston Martin,113.884
+TSU,Alpha Tauri,112.611
+STR,Aston Martin,121.349
+GAS,Alpha Tauri,110.844
+VET,Aston Martin,115.982
+HAM,Mercedes,112.026
+NOR,McLaren,109.072
+BOT,Mercedes,113.753
+HAM,Mercedes,107.720
+NOR,McLaren,113.552
+TSU,Alpha Tauri,114.626
+RUS,Williams,116.125
+STR,Aston Martin,121.532
+VET,Aston Martin,119.786
+PER,Red Bull,111.511
+VER,Red Bull,114.669
+VER,Red Bull,110.286
+SCH,Haas,113.262
+NOR,McLaren,116.115
+PER,Red Bull,110.482
+MAZ,Haas,119.929
+LAT,Williams,115.324
+SAI,Ferrari,110.077
+LEC,Ferrari,109.711
+RUS,Williams,112.645
+HAM,Mercedes,115.844
+RAI,Alfa Romeo,115.858
+LAT,Williams,121.239
+RUS,Williams,113.193
+OCO,Alpine,113.636
+GAS,Alpha Tauri,120.445
+VET,Aston Martin,114.791
+RIC,McLaren,116.211
+MAZ,Haas,119.055
+RIC,McLaren,116.756
+OCO,Alpine,116.585
+RAI,Alfa Romeo,117.936
+RIC,McLaren,118.258
+LEC,Ferrari,120.646
+SCH,Haas,117.455
+STR,Aston Martin,116.146
+SAI,Ferrari,114.468
+TSU,Alpha Tauri,115.960
+OCO,Alpine,113.123
+LAT,Williams,111.370
+RUS,Williams,120.463
+VER,Red Bull,117.555
+RAI,Alfa Romeo,118.306
+SCH,Haas,121.461
+LEC,Ferrari,111.985
+TSU,Alpha Tauri,110.665
+TSU,Alpha Tauri,120.459
+LEC,Ferrari,116.915
+LEC,Ferrari,120.400
+RUS,Williams,111.345
+TSU,Alpha Tauri,110.635
+HAM,Mercedes,115.985
+SAI,Ferrari,110.758
+SAI,Ferrari,111.951
+HAM,Mercedes,117.254
+STR,Aston Martin,119.740
+NOR,McLaren,112.425
+BOT,Mercedes,117.245
+SAI,Ferrari,119.077
+LAT,Williams,115.663
+GAS,Alpha Tauri,117.172
+SAI,Ferrari,115.009
+RIC,McLaren,116.835
+SAI,Ferrari,118.578
+HAM,Mercedes,112.928
+RAI,Alfa Romeo,118.799
+RIC,McLaren,110.998
+NOR,McLaren,110.789
+NOR,McLaren,112.985
+PER,Red Bull,108.879
+LAT,Williams,114.730
+ALO,Alpine,114.574
+MAZ,Haas,111.844
+LEC,Ferrari,112.280
+BOT,Mercedes,111.631
+RUS,Williams,118.433
+VER,Red Bull,113.977
+MAZ,Haas,121.398
+TSU,Alpha Tauri,116.944
+PER,Red Bull,113.259
+VET,Aston Martin,113.845
+BOT,Mercedes,109.765
+LEC,Ferrari,111.802
+VET,Aston Martin,116.013
+SAI,Ferrari,120.643
+RIC,McLaren,109.150
+RUS,Williams,110.189
+STR,Aston Martin,116.528
+LEC,Ferrari,112.604
+VER,Red Bull,109.230
+GAS,Alpha Tauri,109.893
+GAS,Alpha Tauri,110.252
+GAS,Alpha Tauri,111.619
+SCH,Haas,119.154
+GAS,Alpha Tauri,111.004
+TSU,Alpha Tauri,117.932
+PER,Red Bull,110.960
+RAI,Alfa Romeo,118.950
+HAM,Mercedes,113.763
+MAZ,Haas,110.028
+VET,Aston Martin,113.920
+LEC,Ferrari,120.508
+TSU,Alpha Tauri,110.427
+RAI,Alfa Romeo,121.103
+SAI,Ferrari,115.737
+SAI,Ferrari,110.332
+STR,Aston Martin,113.385
+BOT,Mercedes,109.377
+LEC,Ferrari,111.329
+RAI,Alfa Romeo,117.957
+TSU,Alpha Tauri,119.990
+RUS,Williams,116.799
+TSU,Alpha Tauri,116.933
+SAI,Ferrari,113.397
+RIC,McLaren,109.211
+RAI,Alfa Romeo,119.072
+ALO,Alpine,110.994
+SAI,Ferrari,120.486
+NOR,McLaren,111.034
+GIO,Alfa Romeo,119.918
+SCH,Haas,116.604
+RAI,Alfa Romeo,118.403
+PER,Red Bull,113.486
+SAI,Ferrari,120.111
+SAI,Ferrari,115.522
+NOR,McLaren,111.941
+RUS,Williams,110.033
+RUS,Williams,118.380
+ALO,Alpine,111.842
+PER,Red Bull,109.812
+HAM,Mercedes,113.869
+ALO,Alpine,111.071
+GIO,Alfa Romeo,110.823
+VET,Aston Martin,111.910
+OCO,Alpine,115.465
+GAS,Alpha Tauri,114.618
+SCH,Haas,115.538
+ALO,Alpine,117.530
+SCH,Haas,112.881
+GAS,Alpha Tauri,115.083
+STR,Aston Martin,110.309
+TSU,Alpha Tauri,116.386
+RUS,Williams,118.253
+LEC,Ferrari,118.011
+LEC,Ferrari,112.104
+RUS,Williams,120.743
+GIO,Alfa Romeo,119.747
+NOR,McLaren,117.179
+RAI,Alfa Romeo,115.693
+GIO,Alfa Romeo,121.547
+MAZ,Haas,112.903
+RIC,McLaren,111.796
+MAZ,Haas,117.408
+PER,Red Bull,113.876
+STR,Aston Martin,121.377
+RAI,Alfa Romeo,115.365
+NOR,McLaren,120.066
+RIC,McLaren,119.587
+GAS,Alpha Tauri,115.794
+RUS,Williams,117.447
+OCO,Alpine,115.733
+VER,Red Bull,110.280
+LAT,Williams,119.984
+VER,Red Bull,110.473
+RUS,Williams,121.415
+VET,Aston Martin,121.955
+MAZ,Haas,120.616
+TSU,Alpha Tauri,120.524
+ALO,Alpine,112.774
+HAM,Mercedes,109.793
+LAT,Williams,110.947
+HAM,Mercedes,109.510
+RIC,McLaren,112.633
+RAI,Alfa Romeo,118.215
+ALO,Alpine,116.620
+LAT,Williams,117.685
+LEC,Ferrari,114.069
+NOR,McLaren,113.339
+SCH,Haas,116.377
+NOR,McLaren,115.384
+STR,Aston Martin,121.099
+VET,Aston Martin,119.102
+OCO,Alpine,110.769
+SCH,Haas,112.899
+GIO,Alfa Romeo,118.120
+RAI,Alfa Romeo,114.590
+BOT,Mercedes,114.348
+HAM,Mercedes,112.178
+NOR,McLaren,114.002
+GAS,Alpha Tauri,115.021
+LEC,Ferrari,114.272
+STR,Aston Martin,116.007
+SCH,Haas,120.681
+LAT,Williams,115.734
+VER,Red Bull,115.828
+OCO,Alpine,119.707
+GIO,Alfa Romeo,111.148
+GIO,Alfa Romeo,121.502
+PER,Red Bull,116.831
+MAZ,Haas,114.009
+MAZ,Haas,111.989
+VER,Red Bull,116.284
+SCH,Haas,116.617
+NOR,McLaren,120.895
+LEC,Ferrari,120.733
+MAZ,Haas,121.204
+HAM,Mercedes,112.443
+VET,Aston Martin,115.603
+SCH,Haas,111.011
+TSU,Alpha Tauri,112.074
+TSU,Alpha Tauri,116.300
+GAS,Alpha Tauri,120.192
+GIO,Alfa Romeo,110.763
+RUS,Williams,110.804
+MAZ,Haas,121.899
+STR,Aston Martin,119.694
+RAI,Alfa Romeo,113.713
+HAM,Mercedes,108.607
+RIC,McLaren,118.261
+MAZ,Haas,111.230
+LAT,Williams,115.635
+RUS,Williams,115.558
+GAS,Alpha Tauri,119.316
+HAM,Mercedes,112.604
+BOT,Mercedes,110.938
+HAM,Mercedes,114.890
+MAZ,Haas,113.722
+HAM,Mercedes,108.903
+TSU,Alpha Tauri,114.173
+HAM,Mercedes,115.747
+TSU,Alpha Tauri,116.166
+SCH,Haas,114.980
+LEC,Ferrari,115.065
+GAS,Alpha Tauri,117.479
+RIC,McLaren,111.888
+NOR,McLaren,112.198
+LAT,Williams,121.069
+VET,Aston Martin,110.862
+GAS,Alpha Tauri,119.053
+RUS,Williams,114.060
+MAZ,Haas,120.193
+ALO,Alpine,116.361
+MAZ,Haas,111.519
+PER,Red Bull,110.408
+NOR,McLaren,113.944
+SCH,Haas,116.485
+VET,Aston Martin,116.843
+TSU,Alpha Tauri,115.267
+RIC,McLaren,115.106
+LEC,Ferrari,119.651
+STR,Aston Martin,111.038
+LEC,Ferrari,120.348
+LEC,Ferrari,117.387
+OCO,Alpine,119.542
+GIO,Alfa Romeo,115.288
+VET,Aston Martin,118.299
+STR,Aston Martin,110.682
+SAI,Ferrari,114.866
+RUS,Williams,112.987
+PER,Red Bull,109.987
+NOR,McLaren,110.320
+LAT,Williams,116.746
+TSU,Alpha Tauri,110.965
+RIC,McLaren,113.036
+OCO,Alpine,110.547
+SCH,Haas,120.179
+STR,Aston Martin,119.737
+RIC,McLaren,120.688
+HAM,Mercedes,117.120
+RUS,Williams,116.292
+SAI,Ferrari,113.727
+BOT,Mercedes,113.762
+SAI,Ferrari,118.998
+TSU,Alpha Tauri,113.325
+RAI,Alfa Romeo,117.520
+VET,Aston Martin,111.696
+LAT,Williams,110.645
+BOT,Mercedes,108.863
+VER,Red Bull,115.820
+RUS,Williams,118.696
+RIC,McLaren,116.217
+SAI,Ferrari,109.232
+HAM,Mercedes,107.087
+SCH,Haas,111.870
+LAT,Williams,110.400
+RIC,McLaren,111.080
+RAI,Alfa Romeo,115.985
+OCO,Alpine,111.593
+HAM,Mercedes,110.449
+GAS,Alpha Tauri,117.841
+RAI,Alfa Romeo,112.371
+NOR,McLaren,110.263
+RUS,Williams,119.311
+VET,Aston Martin,110.890
+HAM,Mercedes,113.423
+SAI,Ferrari,111.047
+OCO,Alpine,115.527
+GIO,Alfa Romeo,121.926
+RAI,Alfa Romeo,111.496
+TSU,Alpha Tauri,110.372
+LAT,Williams,118.667
+MAZ,Haas,117.167
+MAZ,Haas,116.957
+LEC,Ferrari,118.137
+VET,Aston Martin,114.738
+RAI,Alfa Romeo,119.525
+BOT,Mercedes,115.060
+HAM,Mercedes,108.019
+RUS,Williams,116.414
+MAZ,Haas,111.998
+HAM,Mercedes,108.922
+RUS,Williams,114.013
+NOR,McLaren,113.276
+RUS,Williams,118.123
+SAI,Ferrari,117.220
+RAI,Alfa Romeo,116.279
+TSU,Alpha Tauri,113.845
+ALO,Alpine,120.594
+RIC,McLaren,111.831
+ALO,Alpine,111.274
+NOR,McLaren,113.263
+TSU,Alpha Tauri,111.519
+TSU,Alpha Tauri,114.262
+NOR,McLaren,119.409
+ALO,Alpine,112.754
+OCO,Alpine,117.357
+STR,Aston Martin,121.602
+PER,Red Bull,110.541
+PER,Red Bull,112.370
+RAI,Alfa Romeo,120.593
+SCH,Haas,111.041
+NOR,McLaren,120.593
+GIO,Alfa Romeo,117.672
+RUS,Williams,119.060
+GIO,Alfa Romeo,116.975
+OCO,Alpine,114.041
+LEC,Ferrari,117.686
+SAI,Ferrari,112.721
+SAI,Ferrari,119.813
+ALO,Alpine,112.399
+MAZ,Haas,121.375
+SAI,Ferrari,119.178
+RUS,Williams,116.272
+NOR,McLaren,120.985
+GIO,Alfa Romeo,121.318
+VET,Aston Martin,114.802
+GIO,Alfa Romeo,110.060
+STR,Aston Martin,114.292
+RIC,McLaren,116.650
+SAI,Ferrari,118.628
+STR,Aston Martin,121.875
+STR,Aston Martin,110.187
+HAM,Mercedes,113.623
+HAM,Mercedes,107.723
+OCO,Alpine,113.036
+STR,Aston Martin,110.930
+RUS,Williams,121.514
+LAT,Williams,113.961
+HAM,Mercedes,114.320
+OCO,Alpine,115.245
+SAI,Ferrari,112.725
+ALO,Alpine,109.326
+SAI,Ferrari,115.841
+STR,Aston Martin,115.837
+SCH,Haas,111.340
+OCO,Alpine,109.474
+LEC,Ferrari,111.672
+ALO,Alpine,110.652
+SCH,Haas,117.389
+STR,Aston Martin,113.141
+MAZ,Haas,111.886
+PER,Red Bull,116.286
+GAS,Alpha Tauri,117.043
+ALO,Alpine,112.799
+HAM,Mercedes,116.252
+SAI,Ferrari,114.950
+STR,Aston Martin,114.490
+SCH,Haas,121.691
+LAT,Williams,116.604
+NOR,McLaren,120.780
+SAI,Ferrari,109.780
+VET,Aston Martin,110.950
+GIO,Alfa Romeo,116.890
+OCO,Alpine,112.166
+NOR,McLaren,120.661
+SAI,Ferrari,115.998
+VER,Red Bull,110.150
+GIO,Alfa Romeo,121.293
+RAI,Alfa Romeo,116.680
+SCH,Haas,118.116
+SAI,Ferrari,111.065
+LEC,Ferrari,116.288
+OCO,Alpine,119.135
+VET,Aston Martin,119.782
+ALO,Alpine,116.658
+GAS,Alpha Tauri,119.960
+RAI,Alfa Romeo,117.883
+LEC,Ferrari,118.480
+GIO,Alfa Romeo,117.825
+TSU,Alpha Tauri,114.324
+SAI,Ferrari,110.181
+RUS,Williams,116.328
+OCO,Alpine,111.383
+LAT,Williams,113.340
+SAI,Ferrari,116.439
+SAI,Ferrari,119.732
+RUS,Williams,110.971
+PER,Red Bull,109.188
+GIO,Alfa Romeo,119.835
+HAM,Mercedes,111.194
+VER,Red Bull,108.568
+HAM,Mercedes,108.813
+LAT,Williams,117.061
+SAI,Ferrari,112.282
+BOT,Mercedes,111.504
+MAZ,Haas,114.318
+RUS,Williams,115.280
+GAS,Alpha Tauri,119.204
+RAI,Alfa Romeo,121.328
+NOR,McLaren,111.658
+VER,Red Bull,117.069
+TSU,Alpha Tauri,115.573
+OCO,Alpine,119.345
+SCH,Haas,116.625
+OCO,Alpine,117.639
+RIC,McLaren,119.358
+RUS,Williams,110.293
+NOR,McLaren,117.884
+RIC,McLaren,119.941
+VET,Aston Martin,119.439
+MAZ,Haas,120.402
+GIO,Alfa Romeo,120.951
+RIC,McLaren,117.275
+RAI,Alfa Romeo,117.579
+LEC,Ferrari,112.605
+LAT,Williams,119.641
+LAT,Williams,121.182
+RUS,Williams,117.498
+GIO,Alfa Romeo,119.708
+LEC,Ferrari,115.262
+LAT,Williams,110.032
+RAI,Alfa Romeo,115.783
+ALO,Alpine,117.495
+BOT,Mercedes,111.184
+BOT,Mercedes,116.357
+VER,Red Bull,110.034
+SCH,Haas,117.304
+VER,Red Bull,117.208
+VER,Red Bull,111.410
+GAS,Alpha Tauri,111.720
+LEC,Ferrari,110.471
+VER,Red Bull,114.110
+HAM,Mercedes,115.571
+RIC,McLaren,115.405
+LEC,Ferrari,111.805
+RAI,Alfa Romeo,111.230
+TSU,Alpha Tauri,116.055
+TSU,Alpha Tauri,115.106
+RAI,Alfa Romeo,118.259
+TSU,Alpha Tauri,111.487
+RUS,Williams,111.657
+OCO,Alpine,113.019
+ALO,Alpine,119.392
+TSU,Alpha Tauri,113.568
+SCH,Haas,116.922
+ALO,Alpine,114.996
+RUS,Williams,115.486
+LAT,Williams,116.100
+ALO,Alpine,113.304
+RIC,McLaren,118.176
+PER,Red Bull,115.556
+OCO,Alpine,115.310
+RUS,Williams,113.550
+ALO,Alpine,109.340
+ALO,Alpine,115.376
+MAZ,Haas,114.598
+GAS,Alpha Tauri,117.438
+RUS,Williams,110.652
+RUS,Williams,121.143
+TSU,Alpha Tauri,114.034
+OCO,Alpine,117.487
+HAM,Mercedes,111.243
+LAT,Williams,118.954
+SAI,Ferrari,112.882
+NOR,McLaren,112.312
+HAM,Mercedes,114.982
+HAM,Mercedes,107.836
+RUS,Williams,110.766
+GIO,Alfa Romeo,120.695
+VER,Red Bull,117.217
+RAI,Alfa Romeo,117.901
+LEC,Ferrari,115.730
+HAM,Mercedes,116.130
+STR,Aston Martin,119.109
+NOR,McLaren,110.201
+GAS,Alpha Tauri,110.295
+OCO,Alpine,109.077
+BOT,Mercedes,112.157
+BOT,Mercedes,114.253
+GIO,Alfa Romeo,115.124
+VER,Red Bull,117.284
+RIC,McLaren,116.340
+NOR,McLaren,118.814
+LAT,Williams,120.388
+ALO,Alpine,109.608
+STR,Aston Martin,111.856
+NOR,McLaren,120.914
+SAI,Ferrari,120.082
+LAT,Williams,121.533
+BOT,Mercedes,114.980
+SCH,Haas,114.255
+RAI,Alfa Romeo,121.409
+RAI,Alfa Romeo,120.903
+LAT,Williams,111.381
+LAT,Williams,112.328
+VER,Red Bull,113.437
+VER,Red Bull,109.349
+TSU,Alpha Tauri,117.981
+STR,Aston Martin,119.614
+GIO,Alfa Romeo,113.643
+RAI,Alfa Romeo,117.676
+MAZ,Haas,119.864
+RIC,McLaren,111.779
+RIC,McLaren,112.625
+LAT,Williams,120.520
+LEC,Ferrari,118.399
+LEC,Ferrari,113.487
+RAI,Alfa Romeo,115.545
+RAI,Alfa Romeo,114.444
+GIO,Alfa Romeo,116.252
+VER,Red Bull,108.566
+MAZ,Haas,111.307
+RIC,McLaren,116.853
+OCO,Alpine,112.061
+SCH,Haas,114.799
+SAI,Ferrari,112.859
+VET,Aston Martin,110.007
+RUS,Williams,114.419
+ALO,Alpine,111.063
+LEC,Ferrari,120.786
+PER,Red Bull,113.438
+LEC,Ferrari,115.152
+BOT,Mercedes,116.942
+RIC,McLaren,116.897
+GIO,Alfa Romeo,110.220
+RUS,Williams,110.749
+TSU,Alpha Tauri,110.411
+SAI,Ferrari,113.267
+PER,Red Bull,116.014
+RUS,Williams,119.964
+SAI,Ferrari,114.675
+GAS,Alpha Tauri,114.884
+ALO,Alpine,113.065
+RUS,Williams,115.454
+VET,Aston Martin,113.376
+GIO,Alfa Romeo,120.166
+OCO,Alpine,112.696
+RUS,Williams,115.938
+RIC,McLaren,119.081
+SCH,Haas,117.923
+SAI,Ferrari,119.360
+SAI,Ferrari,113.097
+ALO,Alpine,117.226
+MAZ,Haas,113.227
+GIO,Alfa Romeo,118.235
+SAI,Ferrari,111.543
+MAZ,Haas,119.031
+HAM,Mercedes,113.602
+VET,Aston Martin,120.371
+SCH,Haas,120.742
+PER,Red Bull,115.387
+STR,Aston Martin,111.053
+RAI,Alfa Romeo,112.627
+BOT,Mercedes,110.635
+HAM,Mercedes,108.669
+SAI,Ferrari,113.651
+NOR,McLaren,112.678
+LEC,Ferrari,117.963
+RIC,McLaren,109.776
+GIO,Alfa Romeo,119.939
+SCH,Haas,118.791
+TSU,Alpha Tauri,111.748
+GAS,Alpha Tauri,115.443
+RIC,McLaren,115.891
+PER,Red Bull,116.250
+GIO,Alfa Romeo,117.594
+MAZ,Haas,110.833
+TSU,Alpha Tauri,120.362
+LEC,Ferrari,109.823
+RIC,McLaren,110.991
+RAI,Alfa Romeo,117.749
+LEC,Ferrari,114.949
+ALO,Alpine,114.267
+VET,Aston Martin,110.223
+MAZ,Haas,111.333
+RIC,McLaren,118.658
+SAI,Ferrari,112.252
+MAZ,Haas,112.738
+TSU,Alpha Tauri,116.978
+GIO,Alfa Romeo,112.435
+RUS,Williams,119.083
+SAI,Ferrari,112.574
+STR,Aston Martin,120.932
+RAI,Alfa Romeo,110.239
+RUS,Williams,119.965
+VER,Red Bull,116.604
+PER,Red Bull,117.595
